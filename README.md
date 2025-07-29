@@ -43,6 +43,7 @@ This template includes a carefully selected set of packages to provide a robust 
 | **react-native-screens**             | Provides native navigation primitives for optimal screen behavior.  | [docs.expo.dev/versions/latest/sdk/screens/](https://docs.expo.dev/versions/latest/sdk/screens/)                             |
 | **react-native-keyboard-controller** | Offers enhanced control and handling of the on-screen keyboard.     | [kirillzyusko.github.io/react-native-keyboard-controller/](https://kirillzyusko.github.io/react-native-keyboard-controller/) |
 | **UniStyles**                        | A utility for creating better and more maintainable stylesheets.    | [www.unistyl.es](https://www.unistyl.es)                                                                                     |
+| **@expo/vector-icons**               | A icon library to easily use icons in react native.                 | [https://docs.expo.dev/guides/icons/](https://docs.expo.dev/guides/icons/)                                                   |
 
 ### State Management & Data Fetching
 
